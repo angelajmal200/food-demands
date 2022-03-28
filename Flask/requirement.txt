@@ -39,8 +39,6 @@ numpy==1.19.1
 opencv-contrib-python==4.5.4.60
 opencv-python==4.5.4.60
 packaging==20.4
-
-
 pandocfilters==1.4.2
 parso==0.7.1
 pickleshare==0.7.5
